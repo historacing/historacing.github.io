@@ -2,7 +2,7 @@
 # BROWSER
 BROWSER="firefox"         # Browser to open page
 EMACS="emacs"             # txt editor
-TWITTER="@uhistoracing"   # nick twitter
+TWITTER="@historacing"   # nick twitter
 LANGUAGE="es_ES"          
 GOOGLE_ANALITYCS=""
 
