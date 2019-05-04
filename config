@@ -2,16 +2,16 @@
 # BROWSER
 BROWSER="firefox"         # Browser to open page
 EMACS="emacs"             # txt editor
-TWITTER="@ugeekpodcast"   # nick twitter
+TWITTER="@historacing"   # nick twitter
 LANGUAGE="es_ES"          
-GOOGLE_ANALITYCS="UA-999999999-9"
+GOOGLE_ANALITYCS=""
 
 # RSS
-LOGO_FEED="https://ugeek.github.io/ugeek.png"
-ICON="https://ugeek.github.io/icon/ugeek-256x256.png"
+LOGO_FEED="https://archive.org/download/LOGOHISTORACING3/LOGOHISTORACING3.png"
+ICON="https://avatars2.githubusercontent.com/u/50263764?s=40&v=4"
 IMAGE="https://ugeek.github.io/icon/ugeek.png"
 LANGUAGE_RSS="es"
-FEED="https://anchor.fm/s/106db04/podcast/rss"
+FEED="http://feeds.feedburner.com/Historacing"
 
 # HEAD PAGE INDEX, LIST, TAG
 HEAD_PAGE=$(echo '
