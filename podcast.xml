@@ -1,0 +1,676 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+  <channel>
+    <title>Historacing</title>
+    <link>https://historacing.github.io/</link>
+    <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
+    <image>
+       <url>https://historacing.github.io//https://archive.org/download/LOGOHISTORACING3/LOGOHISTORACING3.png</url>
+       <title>Historacing</title>
+       <link>https://historacing.github.io/</link>
+    </image>
+    <language>es-es</language>
+    <copyright>Angel uGeek. copyright 2019</copyright>
+    <atom:link href="https://historacing.github.io//podcast.xml" rel="self" type="application/rss+xml"/>
+    <itunes:summary>Podcast de Tecnología</itunes:summary>
+   <itunes:owner>
+    <itunes:name>uGeek</itunes:name>
+    <itunes:email>ugeekpodcast@gmail.com</itunes:email>
+   </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:keywords>Tecnología,Linux</itunes:keywords>
+    <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
+    <rawvoice:location>Barcelona, Spain</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <itunes:category text="Technology"/>
+    <pubDate>Sat, 04 May 2019 18:50 +0100</pubDate>
+    <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>El gran Mini Cooper y el Montecarlo</title>
+    <link>https://historacing.github.io//post/2019-05-01-el-gran-mini-cooper-y-el-montecarlo.html</link>
+    <pubDate>Wed, 01 May 2019 09:19 +0100</pubDate>
+    <description>El gran Mini Cooper y el Montecarlo
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-05-01-el-gran-mini-cooper-y-el-montecarlo.html&gt;El gran Mini Cooper y el Montecarlo&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/PodcastFinal1/podcast%20final%201.mp3"/>
+    <guid>https://historacing.github.io//post/2019-05-01-el-gran-mini-cooper-y-el-montecarlo.html</guid> 
+          <itunes:summary>El gran Mini Cooper y el Montecarlo</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Porsche 917 un coche de Pelicula. </title>
+    <link>https://historacing.github.io//post/2019-04-05-porsche-917-un-coche-de-pelicula--.html</link>
+    <pubDate>Fri, 05 Apr 2019 09:19 +0100</pubDate>
+    <description>Porsche 917 un coche de Pelicula. 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-04-05-porsche-917-un-coche-de-pelicula--.html&gt;Porsche 917 un coche de Pelicula. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/ElMini_201904/%20el%20mini.mp3"/>
+    <guid>https://historacing.github.io//post/2019-04-05-porsche-917-un-coche-de-pelicula--.html</guid> 
+          <itunes:summary>Porsche 917 un coche de Pelicula. </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Lotus 49 con Guillermo Garcia Alfonsin</title>
+    <link>https://historacing.github.io//post/2019-03-24-lotus-49--con-guillermo-garcia-alfonsin.html</link>
+    <pubDate>Sun, 24 Mar 2019 09:19 +0100</pubDate>
+    <description>Lotus 49 con Guillermo Garcia Alfonsin
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-03-24-lotus-49--con-guillermo-garcia-alfonsin.html&gt;Lotus 49 con Guillermo Garcia Alfonsin&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/917FinalOk/917%20final%20ok.mp3"/>
+    <guid>https://historacing.github.io//post/2019-03-24-lotus-49--con-guillermo-garcia-alfonsin.html</guid> 
+          <itunes:summary>Lotus 49 con Guillermo Garcia Alfonsin</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Monza 1967. Clark contra todos. </title>
+    <link>https://historacing.github.io//post/2019-03-05-monza-1967--clark-contra-todos--.html</link>
+    <pubDate>Tue, 05 Mar 2019 09:19 +0100</pubDate>
+    <description>Monza 1967. Clark contra todos. 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-03-05-monza-1967--clark-contra-todos--.html&gt;Monza 1967. Clark contra todos. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/Lotus49Final/lotus%2049%20final.mp3"/>
+    <guid>https://historacing.github.io//post/2019-03-05-monza-1967--clark-contra-todos--.html</guid> 
+          <itunes:summary>Monza 1967. Clark contra todos. </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Los tres ganadores de Daytona y del campeonato mundial de f1</title>
+    <link>https://historacing.github.io//post/2019-02-14-los-tres-ganadores-de-daytona-y-del-campeonato-mundial-de-f1.html</link>
+    <pubDate>Thu, 14 Feb 2019 09:19 +0100</pubDate>
+    <description>Los tres ganadores de Daytona y del campeonato mundial de f1
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-02-14-los-tres-ganadores-de-daytona-y-del-campeonato-mundial-de-f1.html&gt;Los tres ganadores de Daytona y del campeonato mundial de f1&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/GPitalia1967/GPitalia1967.mp3"/>
+    <guid>https://historacing.github.io//post/2019-02-14-los-tres-ganadores-de-daytona-y-del-campeonato-mundial-de-f1.html</guid> 
+          <itunes:summary>Los tres ganadores de Daytona y del campeonato mundial de f1</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Aventuras de Pegaso y Nissan en el dakar de los 80´s</title>
+    <link>https://historacing.github.io//post/2019-01-29-aventuras-de-pegaso-y-nissan-en-el-dakar-de-los-80´s.html</link>
+    <pubDate>Tue, 29 Jan 2019 09:19 +0100</pubDate>
+    <description>Aventuras de Pegaso y Nissan en el dakar de los 80´s
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-01-29-aventuras-de-pegaso-y-nissan-en-el-dakar-de-los-80´s.html&gt;Aventuras de Pegaso y Nissan en el dakar de los 80´s&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/Daytona1/daytona%201.mp3"/>
+    <guid>https://historacing.github.io//post/2019-01-29-aventuras-de-pegaso-y-nissan-en-el-dakar-de-los-80´s.html</guid> 
+          <itunes:summary>Aventuras de Pegaso y Nissan en el dakar de los 80´s</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>BMW M3 e 30 y Pep Bassas. </title>
+    <link>https://historacing.github.io//post/2019-01-17-bmw-m3-e-30-y-pep-bassas--.html</link>
+    <pubDate>Thu, 17 Jan 2019 09:19 +0100</pubDate>
+    <description>BMW M3 e 30 y Pep Bassas. 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-01-17-bmw-m3-e-30-y-pep-bassas--.html&gt;BMW M3 e 30 y Pep Bassas. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/PegasoNissanParisDakarFinal/pegaso%20nissan%20paris%20dakar%20final.mp3"/>
+    <guid>https://historacing.github.io//post/2019-01-17-bmw-m3-e-30-y-pep-bassas--.html</guid> 
+          <itunes:summary>BMW M3 e 30 y Pep Bassas. </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Peter Collins el discipulo generoso</title>
+    <link>https://historacing.github.io//post/2019-01-03-peter-collins-el-discipulo-generoso.html</link>
+    <pubDate>Thu, 03 Jan 2019 09:19 +0100</pubDate>
+    <description>Peter Collins el discipulo generoso
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-01-03-peter-collins-el-discipulo-generoso.html&gt;Peter Collins el discipulo generoso&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/BmwE30FinalOk/bmw%20e30%20final%20ok%20.mp3"/>
+    <guid>https://historacing.github.io//post/2019-01-03-peter-collins-el-discipulo-generoso.html</guid> 
+          <itunes:summary>Peter Collins el discipulo generoso</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>El Marques de Portago, una vida de Pelicula</title>
+    <link>https://historacing.github.io//post/2018-12-18-el-marques-de-portago--una-vida-de-pelicula.html</link>
+    <pubDate>Tue, 18 Dec 2018 09:19 +0100</pubDate>
+    <description>El Marques de Portago, una vida de Pelicula
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-12-18-el-marques-de-portago--una-vida-de-pelicula.html&gt;El Marques de Portago, una vida de Pelicula&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://ia801506.us.archive.org/16/items/PeterCollins/Peter%20Collins.mp3"/>
+    <guid>https://historacing.github.io//post/2018-12-18-el-marques-de-portago--una-vida-de-pelicula.html</guid> 
+          <itunes:summary>El Marques de Portago, una vida de Pelicula</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>El hombre que caminaba solo. </title>
+    <link>https://historacing.github.io//post/2018-12-01-el-hombre-que-caminaba-solo--.html</link>
+    <pubDate>Sat, 01 Dec 2018 09:19 +0100</pubDate>
+    <description>El hombre que caminaba solo. 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-12-01-el-hombre-que-caminaba-solo--.html&gt;El hombre que caminaba solo. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/MarquesPortagoFinal/marques%20portago%20final.mp3"/>
+    <guid>https://historacing.github.io//post/2018-12-01-el-hombre-que-caminaba-solo--.html</guid> 
+          <itunes:summary>El hombre que caminaba solo. </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>El mejor piloto de la Historia.</title>
+    <link>https://historacing.github.io//post/2018-11-16-el-mejor-piloto-de-la-historia-.html</link>
+    <pubDate>Fri, 16 Nov 2018 09:19 +0100</pubDate>
+    <description>El mejor piloto de la Historia.
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-11-16-el-mejor-piloto-de-la-historia-.html&gt;El mejor piloto de la Historia.&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/LemansJacky/lemans%20jacky.mp3"/>
+    <guid>https://historacing.github.io//post/2018-11-16-el-mejor-piloto-de-la-historia-.html</guid> 
+          <itunes:summary>El mejor piloto de la Historia.</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Stefan Bellof el Kaiser de Nurburgring</title>
+    <link>https://historacing.github.io//post/2018-10-29-stefan-bellof-el-kaiser-de-nurburgring.html</link>
+    <pubDate>Mon, 29 Oct 2018 09:19 +0100</pubDate>
+    <description>Stefan Bellof el Kaiser de Nurburgring
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-29-stefan-bellof-el-kaiser-de-nurburgring.html&gt;Stefan Bellof el Kaiser de Nurburgring&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/ElMejorPilotoDeLaHistoria/El%20mejor%20piloto%20de%20la%20historia.mp3"/>
+    <guid>https://historacing.github.io//post/2018-10-29-stefan-bellof-el-kaiser-de-nurburgring.html</guid> 
+          <itunes:summary>Stefan Bellof el Kaiser de Nurburgring</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>RAC Rally 1998 El dia que el destino les hizo aun mas grandes</title>
+    <link>https://historacing.github.io//post/2018-10-26-rac-rally-1998-el-dia-que-el-destino-les-hizo-aun-mas-grandes.html</link>
+    <pubDate>Fri, 26 Oct 2018 09:19 +0100</pubDate>
+    <description>RAC Rally 1998 El dia que el destino les hizo aun mas grandes
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-26-rac-rally-1998-el-dia-que-el-destino-les-hizo-aun-mas-grandes.html&gt;RAC Rally 1998 El dia que el destino les hizo aun mas grandes&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/BellofFinalSiOSi/Bellof%20final%20si%20o%20si.mp3"/>
+    <guid>https://historacing.github.io//post/2018-10-26-rac-rally-1998-el-dia-que-el-destino-les-hizo-aun-mas-grandes.html</guid> 
+          <itunes:summary>RAC Rally 1998 El dia que el destino les hizo aun mas grandes</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Alcaniz el Monaco espanol </title>
+    <link>https://historacing.github.io//post/2018-10-09-alcaniz-el-monaco-espanol-.html</link>
+    <pubDate>Tue, 09 Oct 2018 09:19 +0100</pubDate>
+    <description>Alcaniz el Monaco espanol 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-09-alcaniz-el-monaco-espanol-.html&gt;Alcaniz el Monaco espanol &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/historacingRac1998/historacingRac1998.mp3"/>
+    <guid>https://historacing.github.io//post/2018-10-09-alcaniz-el-monaco-espanol-.html</guid> 
+          <itunes:summary>Alcaniz el Monaco espanol </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Monza La historia del circuito de los records</title>
+    <link>https://historacing.github.io//post/2018-10-05-monza-la-historia-del-circuito-de-los-records.html</link>
+    <pubDate>Fri, 05 Oct 2018 09:19 +0100</pubDate>
+    <description>Monza La historia del circuito de los records
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-05-monza-la-historia-del-circuito-de-los-records.html&gt;Monza La historia del circuito de los records&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/Lemans55final/Lemans55final.mp3"/>
+    <guid>https://historacing.github.io//post/2018-10-05-monza-la-historia-del-circuito-de-los-records.html</guid> 
+          <itunes:summary>Monza La historia del circuito de los records</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Le Mans 1955 La carrera del infierno. </title>
+    <link>https://historacing.github.io//post/2018-10-05-le-mans-1955-la-carrera-del-infierno--.html</link>
+    <pubDate>Fri, 05 Oct 2018 09:19 +0100</pubDate>
+    <description>Le Mans 1955 La carrera del infierno. 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-05-le-mans-1955-la-carrera-del-infierno--.html&gt;Le Mans 1955 La carrera del infierno. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://ia601506.us.archive.org/16/items/podcastfinal_201809/podcastfinal.mp3"/>
+    <guid>https://historacing.github.io//post/2018-10-05-le-mans-1955-la-carrera-del-infierno--.html</guid> 
+          <itunes:summary>Le Mans 1955 La carrera del infierno. </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Hermanos Rodriguez una vida apasionante. </title>
+    <link>https://historacing.github.io//post/2018-08-30-hermanos-rodriguez--una-vida-apasionante--.html</link>
+    <pubDate>Thu, 30 Aug 2018 09:19 +0100</pubDate>
+    <description>Hermanos Rodriguez una vida apasionante. 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-08-30-hermanos-rodriguez--una-vida-apasionante--.html&gt;Hermanos Rodriguez una vida apasionante. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/MonzaFinal_201808/monza%20final%20.mp3"/>
+    <guid>https://historacing.github.io//post/2018-08-30-hermanos-rodriguez--una-vida-apasionante--.html</guid> 
+          <itunes:summary>Hermanos Rodriguez una vida apasionante. </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Off-topic (SimRacing) </title>
+    <link>https://historacing.github.io//post/2018-08-28-off-topic-(simracing)-.html</link>
+    <pubDate>Tue, 28 Aug 2018 09:19 +0100</pubDate>
+    <description>Off-topic (SimRacing) 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-08-28-off-topic-(simracing)-.html&gt;Off-topic (SimRacing) &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/HermanosRodriguezFinal/hermanos%20rodriguez%20final.mp3"/>
+    <guid>https://historacing.github.io//post/2018-08-28-off-topic-(simracing)-.html</guid> 
+          <itunes:summary>Off-topic (SimRacing) </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Wilfredo Ricard y los Pegaso Z102</title>
+    <link>https://historacing.github.io//post/2018-08-10-wilfredo-ricard-y-los-pegaso-z102.html</link>
+    <pubDate>Fri, 10 Aug 2018 09:19 +0100</pubDate>
+    <description>Wilfredo Ricard y los Pegaso Z102
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-08-10-wilfredo-ricard-y-los-pegaso-z102.html&gt;Wilfredo Ricard y los Pegaso Z102&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/offtopic_201808/offtopic.mp3"/>
+    <guid>https://historacing.github.io//post/2018-08-10-wilfredo-ricard-y-los-pegaso-z102.html</guid> 
+          <itunes:summary>Wilfredo Ricard y los Pegaso Z102</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Coches Míticos "Lancia Stratos, el príncipe de los rallyes"</title>
+    <link>https://historacing.github.io//post/2018-07-29-coches-miticos-"lancia-stratos--el-principe-de-los-rallyes".html</link>
+    <pubDate>Sun, 29 Jul 2018 09:19 +0100</pubDate>
+    <description>Coches Míticos "Lancia Stratos, el príncipe de los rallyes"
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-07-29-coches-miticos-"lancia-stratos--el-principe-de-los-rallyes".html&gt;Coches Míticos "Lancia Stratos, el príncipe de los rallyes"&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/WilfredoRicard/wilfredo%20ricard.mp3"/>
+    <guid>https://historacing.github.io//post/2018-07-29-coches-miticos-"lancia-stratos--el-principe-de-los-rallyes".html</guid> 
+          <itunes:summary>Coches Míticos "Lancia Stratos, el príncipe de los rallyes"</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Autoracing 2018 ( podcast mini) </title>
+    <link>https://historacing.github.io//post/2018-07-07-autoracing-2018-(-podcast-mini)-.html</link>
+    <pubDate>Sat, 07 Jul 2018 09:19 +0100</pubDate>
+    <description>Autoracing 2018 ( podcast mini) 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-07-07-autoracing-2018-(-podcast-mini)-.html&gt;Autoracing 2018 ( podcast mini) &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/PodcastStratosFinal/Podcast%20Stratos%20final.mp3"/>
+    <guid>https://historacing.github.io//post/2018-07-07-autoracing-2018-(-podcast-mini)-.html</guid> 
+          <itunes:summary>Autoracing 2018 ( podcast mini) </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>Indy500 1982 "Drama, pasión y gloria"</title>
+    <link>https://historacing.github.io//post/2018-06-23-indy500-1982-"drama--pasion-y-gloria".html</link>
+    <pubDate>Sat, 23 Jun 2018 09:19 +0100</pubDate>
+    <description>Indy500 1982 "Drama, pasión y gloria"
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-06-23-indy500-1982-"drama--pasion-y-gloria".html&gt;Indy500 1982 "Drama, pasión y gloria"&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/ultrafoto_gmail/Autoracing%202018.mp3"/>
+    <guid>https://historacing.github.io//post/2018-06-23-indy500-1982-"drama--pasion-y-gloria".html</guid> 
+          <itunes:summary>Indy500 1982 "Drama, pasión y gloria"</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>El ultimo dia de Abril ( Roland Ratzemberger) </title>
+    <link>https://historacing.github.io//post/2018-05-24-el-ultimo-dia-de-abril-(-roland-ratzemberger)-.html</link>
+    <pubDate>Thu, 24 May 2018 09:19 +0100</pubDate>
+    <description>El ultimo dia de Abril ( Roland Ratzemberger) 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-05-24-el-ultimo-dia-de-abril-(-roland-ratzemberger)-.html&gt;El ultimo dia de Abril ( Roland Ratzemberger) &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/Indy1982/Indy%201982.mp3"/>
+    <guid>https://historacing.github.io//post/2018-05-24-el-ultimo-dia-de-abril-(-roland-ratzemberger)-.html</guid> 
+          <itunes:summary>El ultimo dia de Abril ( Roland Ratzemberger) </itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+   <item>
+    <title>El Rallye de los taxis</title>
+    <link>https://historacing.github.io//post/2018-05-09-el-rallye-de-los-taxis.html</link>
+    <pubDate>Wed, 09 May 2018 09:19 +0100</pubDate>
+    <description>El Rallye de los taxis
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-05-09-el-rallye-de-los-taxis.html&gt;El Rallye de los taxis&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://archive.org/download/PodcastRolandFinal/podcast%20roland%20final.mp3"/>
+    <guid>https://historacing.github.io//post/2018-05-09-el-rallye-de-los-taxis.html</guid> 
+          <itunes:summary>El Rallye de los taxis</itunes:summary>
+          <itunes:image href="https://archive.org/download/logoitunes_201707/logoitunes.jpg"/>  
+          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+  </channel>
+</rss>

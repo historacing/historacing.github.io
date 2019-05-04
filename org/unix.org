@@ -1,13 +1,4 @@
-#+TITLE: Historacing
-#+LINK: https://historacing.github.io/
-#+DESCRIPTION: Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek
-#+KEYWORDS: GNU, linux, Raspberry, android, domótica 
-#+AUTHOR: Carlos
-#+LANGUAGE: es
-#+STARTUP: inlineimage
-
-
-* TODO El gran Mini Cooper y el Montecarlo
+* El gran Mini Cooper y el Montecarlo
 :PROPERTIES:
 :TITLE: El gran Mini Cooper y el Montecarlo
 :EXPORT_FILE_NAME: el-gran-mini-cooper-y-el-montecarlo
@@ -20,7 +11,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Porsche 917 un coche de Pelicula. 
+* Porsche 917 un coche de Pelicula. 
 :PROPERTIES:
 :TITLE: Porsche 917 un coche de Pelicula. 
 :EXPORT_FILE_NAME: porsche-917-un-coche-de-pelicula--
@@ -33,7 +24,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Lotus 49  con Guillermo Garcia Alfonsin
+* Lotus 49  con Guillermo Garcia Alfonsin
 :PROPERTIES:
 :TITLE: Lotus 49  con Guillermo Garcia Alfonsin
 :EXPORT_FILE_NAME: lotus-49--con-guillermo-garcia-alfonsin
@@ -46,7 +37,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Monza 1967. Clark contra todos. 
+* Monza 1967. Clark contra todos. 
 :PROPERTIES:
 :TITLE: Monza 1967. Clark contra todos. 
 :EXPORT_FILE_NAME: monza-1967--clark-contra-todos--
@@ -59,7 +50,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Los tres ganadores de Daytona y del campeonato mundial de f1
+* Los tres ganadores de Daytona y del campeonato mundial de f1
 :PROPERTIES:
 :TITLE: Los tres ganadores de Daytona y del campeonato mundial de f1
 :EXPORT_FILE_NAME: los-tres-ganadores-de-daytona-y-del-campeonato-mundial-de-f1
@@ -72,7 +63,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Aventuras de Pegaso y Nissan en el dakar de los 80´s
+* Aventuras de Pegaso y Nissan en el dakar de los 80´s
 :PROPERTIES:
 :TITLE: Aventuras de Pegaso y Nissan en el dakar de los 80´s
 :EXPORT_FILE_NAME: aventuras-de-pegaso-y-nissan-en-el-dakar-de-los-80´s
@@ -85,7 +76,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO BMW M3 e 30 y Pep Bassas. 
+* BMW M3 e 30 y Pep Bassas. 
 :PROPERTIES:
 :TITLE: BMW M3 e 30 y Pep Bassas. 
 :EXPORT_FILE_NAME: bmw-m3-e-30-y-pep-bassas--
@@ -98,7 +89,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Peter Collins el discipulo generoso
+* Peter Collins el discipulo generoso
 :PROPERTIES:
 :TITLE: Peter Collins el discipulo generoso
 :EXPORT_FILE_NAME: peter-collins-el-discipulo-generoso
@@ -111,7 +102,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO El Marques de Portago, una vida de Pelicula
+* El Marques de Portago, una vida de Pelicula
 :PROPERTIES:
 :TITLE: El Marques de Portago, una vida de Pelicula
 :EXPORT_FILE_NAME: el-marques-de-portago--una-vida-de-pelicula
@@ -124,7 +115,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO El hombre que caminaba solo. 
+* El hombre que caminaba solo. 
 :PROPERTIES:
 :TITLE: El hombre que caminaba solo. 
 :EXPORT_FILE_NAME: el-hombre-que-caminaba-solo--
@@ -137,7 +128,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO El mejor piloto de la Historia.
+* El mejor piloto de la Historia.
 :PROPERTIES:
 :TITLE: El mejor piloto de la Historia.
 :EXPORT_FILE_NAME: el-mejor-piloto-de-la-historia-
@@ -150,7 +141,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Stefan Bellof el Kaiser de Nurburgring
+* Stefan Bellof el Kaiser de Nurburgring
 :PROPERTIES:
 :TITLE: Stefan Bellof el Kaiser de Nurburgring
 :EXPORT_FILE_NAME: stefan-bellof-el-kaiser-de-nurburgring
@@ -163,7 +154,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO RAC Rally 1998 El dia que el destino les hizo aun mas grandes
+* RAC Rally 1998 El dia que el destino les hizo aun mas grandes
 :PROPERTIES:
 :TITLE: RAC Rally 1998 El dia que el destino les hizo aun mas grandes
 :EXPORT_FILE_NAME: rac-rally-1998-el-dia-que-el-destino-les-hizo-aun-mas-grandes
@@ -176,7 +167,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Alcaniz el Monaco espanol 
+* Alcaniz el Monaco espanol 
 :PROPERTIES:
 :TITLE: Alcaniz el Monaco espanol 
 :EXPORT_FILE_NAME: alcaniz-el-monaco-espanol-
@@ -189,7 +180,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Le Mans 1955 La carrera del infierno. 
+* Le Mans 1955 La carrera del infierno. 
 :PROPERTIES:
 :TITLE: Le Mans 1955 La carrera del infierno. 
 :EXPORT_FILE_NAME: le-mans-1955-la-carrera-del-infierno--
@@ -202,7 +193,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Monza La historia del circuito de los records
+* Monza La historia del circuito de los records
 :PROPERTIES:
 :TITLE: Monza La historia del circuito de los records
 :EXPORT_FILE_NAME: monza-la-historia-del-circuito-de-los-records
@@ -215,7 +206,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Hermanos Rodriguez  una vida apasionante. 
+* Hermanos Rodriguez  una vida apasionante. 
 :PROPERTIES:
 :TITLE: Hermanos Rodriguez  una vida apasionante. 
 :EXPORT_FILE_NAME: hermanos-rodriguez--una-vida-apasionante--
@@ -228,7 +219,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Off-topic (SimRacing) 
+* Off-topic (SimRacing) 
 :PROPERTIES:
 :TITLE: Off-topic (SimRacing) 
 :EXPORT_FILE_NAME: off-topic-(simracing)-
@@ -241,7 +232,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Wilfredo Ricard y los Pegaso Z102
+* Wilfredo Ricard y los Pegaso Z102
 :PROPERTIES:
 :TITLE: Wilfredo Ricard y los Pegaso Z102
 :EXPORT_FILE_NAME: wilfredo-ricard-y-los-pegaso-z102
@@ -254,7 +245,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Coches Míticos "Lancia Stratos, el príncipe de los rallyes"
+* Coches Míticos "Lancia Stratos, el príncipe de los rallyes"
 :PROPERTIES:
 :TITLE: Coches Míticos "Lancia Stratos, el príncipe de los rallyes"
 :EXPORT_FILE_NAME: coches-miticos-"lancia-stratos--el-principe-de-los-rallyes"
@@ -267,7 +258,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Autoracing 2018 ( podcast mini) 
+* Autoracing 2018 ( podcast mini) 
 :PROPERTIES:
 :TITLE: Autoracing 2018 ( podcast mini) 
 :EXPORT_FILE_NAME: autoracing-2018-(-podcast-mini)-
@@ -280,7 +271,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO Indy500 1982 "Drama, pasión y gloria"
+* Indy500 1982 "Drama, pasión y gloria"
 :PROPERTIES:
 :TITLE: Indy500 1982 "Drama, pasión y gloria"
 :EXPORT_FILE_NAME: indy500-1982-"drama--pasion-y-gloria"
@@ -293,7 +284,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO El ultimo dia de Abril ( Roland Ratzemberger) 
+* El ultimo dia de Abril ( Roland Ratzemberger) 
 :PROPERTIES:
 :TITLE: El ultimo dia de Abril ( Roland Ratzemberger) 
 :EXPORT_FILE_NAME: el-ultimo-dia-de-abril-(-roland-ratzemberger)-
@@ -306,7 +297,7 @@
 :EXPLICIT: No
 :END:
  
-* TODO El Rallye de los taxis
+* El Rallye de los taxis
 :PROPERTIES:
 :TITLE: El Rallye de los taxis
 :EXPORT_FILE_NAME: el-rallye-de-los-taxis

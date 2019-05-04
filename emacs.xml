@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Historacing</title>
+    <link>https://historacing.github.io/</link>
+    <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
+    <image>
+       <url>https://archive.org/download/LOGOHISTORACING3/LOGOHISTORACING3.png</url>
+       <title>Historacing</title>
+       <link>https://historacing.github.io/</link>
+    </image>
+    <language>es</language>
+    <atom:link href="https://historacing.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+  </channel>
+</rss>

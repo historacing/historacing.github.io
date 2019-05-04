@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Historacing</title>
+    <link>https://historacing.github.io/</link>
+    <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
+    <image>
+       <url>https://archive.org/download/LOGOHISTORACING3/LOGOHISTORACING3.png</url>
+       <title>Historacing</title>
+       <link>https://historacing.github.io/</link>
+    </image>
+    <language>es</language>
+    <atom:link href="https://historacing.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>El gran Mini Cooper y el Montecarlo</title>
+    <link>https://historacing.github.io//post/2019-05-01-el-gran-mini-cooper-y-el-montecarlo.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="El gran Mini Cooper y el Montecarlo"&gt;
+&lt;br&gt;&lt;p&gt;El gran Mini Cooper y el Montecarlo... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-05-01-el-gran-mini-cooper-y-el-montecarlo.html&gt;El gran Mini Cooper y el Montecarlo&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Wed, 01 May 2019 02:30 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2019-05-01-el-gran-mini-cooper-y-el-montecarlo.html</guid>
+   </item>
+   <item>
+    <title>Porsche 917 un coche de Pelicula. </title>
+    <link>https://historacing.github.io//post/2019-04-05-porsche-917-un-coche-de-pelicula--.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Porsche 917 un coche de Pelicula. "&gt;
+&lt;br&gt;&lt;p&gt;Porsche 917 un coche de Pelicula. ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-04-05-porsche-917-un-coche-de-pelicula--.html&gt;Porsche 917 un coche de Pelicula. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Fri, 05 Apr 2019 23:50 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2019-04-05-porsche-917-un-coche-de-pelicula--.html</guid>
+   </item>
+   <item>
+    <title>Lotus 49 con Guillermo Garcia Alfonsin</title>
+    <link>https://historacing.github.io//post/2019-03-24-lotus-49--con-guillermo-garcia-alfonsin.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Lotus 49 con Guillermo Garcia Alfonsin"&gt;
+&lt;br&gt;&lt;p&gt;Lotus 49 con Guillermo Garcia Alfonsin... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-03-24-lotus-49--con-guillermo-garcia-alfonsin.html&gt;Lotus 49 con Guillermo Garcia Alfonsin&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Sun, 24 Mar 2019 12:41 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2019-03-24-lotus-49--con-guillermo-garcia-alfonsin.html</guid>
+   </item>
+   <item>
+    <title>Monza 1967. Clark contra todos. </title>
+    <link>https://historacing.github.io//post/2019-03-05-monza-1967--clark-contra-todos--.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Monza 1967. Clark contra todos. "&gt;
+&lt;br&gt;&lt;p&gt;Monza 1967. Clark contra todos. ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-03-05-monza-1967--clark-contra-todos--.html&gt;Monza 1967. Clark contra todos. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 05 Mar 2019 18:42 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2019-03-05-monza-1967--clark-contra-todos--.html</guid>
+   </item>
+   <item>
+    <title>Los tres ganadores de Daytona y del campeonato mundial de f1</title>
+    <link>https://historacing.github.io//post/2019-02-14-los-tres-ganadores-de-daytona-y-del-campeonato-mundial-de-f1.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Los tres ganadores de Daytona y del campeonato mundial de f1"&gt;
+&lt;br&gt;&lt;p&gt;Los tres ganadores de Daytona y del campeonato mundial de f1... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-02-14-los-tres-ganadores-de-daytona-y-del-campeonato-mundial-de-f1.html&gt;Los tres ganadores de Daytona y del campeonato mundial de f1&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Thu, 14 Feb 2019 11:09 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2019-02-14-los-tres-ganadores-de-daytona-y-del-campeonato-mundial-de-f1.html</guid>
+   </item>
+   <item>
+    <title>Aventuras de Pegaso y Nissan en el dakar de los 80´s</title>
+    <link>https://historacing.github.io//post/2019-01-29-aventuras-de-pegaso-y-nissan-en-el-dakar-de-los-80´s.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Aventuras de Pegaso y Nissan en el dakar de los 80´s"&gt;
+&lt;br&gt;&lt;p&gt;Aventuras de Pegaso y Nissan en el dakar de los 80´s... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-01-29-aventuras-de-pegaso-y-nissan-en-el-dakar-de-los-80´s.html&gt;Aventuras de Pegaso y Nissan en el dakar de los 80´s&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 29 Jan 2019 11:11 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2019-01-29-aventuras-de-pegaso-y-nissan-en-el-dakar-de-los-80´s.html</guid>
+   </item>
+   <item>
+    <title>BMW M3 e 30 y Pep Bassas. </title>
+    <link>https://historacing.github.io//post/2019-01-17-bmw-m3-e-30-y-pep-bassas--.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="BMW M3 e 30 y Pep Bassas. "&gt;
+&lt;br&gt;&lt;p&gt;BMW M3 e 30 y Pep Bassas. ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-01-17-bmw-m3-e-30-y-pep-bassas--.html&gt;BMW M3 e 30 y Pep Bassas. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Thu, 17 Jan 2019 20:09 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2019-01-17-bmw-m3-e-30-y-pep-bassas--.html</guid>
+   </item>
+   <item>
+    <title>Peter Collins el discipulo generoso</title>
+    <link>https://historacing.github.io//post/2019-01-03-peter-collins-el-discipulo-generoso.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Peter Collins el discipulo generoso"&gt;
+&lt;br&gt;&lt;p&gt;Peter Collins el discipulo generoso... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2019-01-03-peter-collins-el-discipulo-generoso.html&gt;Peter Collins el discipulo generoso&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Thu, 03 Jan 2019 19:07 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2019-01-03-peter-collins-el-discipulo-generoso.html</guid>
+   </item>
+   <item>
+    <title>El Marques de Portago, una vida de Pelicula</title>
+    <link>https://historacing.github.io//post/2018-12-18-el-marques-de-portago--una-vida-de-pelicula.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="El Marques de Portago, una vida de Pelicula"&gt;
+&lt;br&gt;&lt;p&gt;El Marques de Portago, una vida de Pelicula... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-12-18-el-marques-de-portago--una-vida-de-pelicula.html&gt;El Marques de Portago, una vida de Pelicula&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 18 Dec 2018 20:54 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-12-18-el-marques-de-portago--una-vida-de-pelicula.html</guid>
+   </item>
+   <item>
+    <title>El hombre que caminaba solo. </title>
+    <link>https://historacing.github.io//post/2018-12-01-el-hombre-que-caminaba-solo--.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="El hombre que caminaba solo. "&gt;
+&lt;br&gt;&lt;p&gt;El hombre que caminaba solo. ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-12-01-el-hombre-que-caminaba-solo--.html&gt;El hombre que caminaba solo. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Sat, 01 Dec 2018 06:56 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-12-01-el-hombre-que-caminaba-solo--.html</guid>
+   </item>
+   <item>
+    <title>El mejor piloto de la Historia.</title>
+    <link>https://historacing.github.io//post/2018-11-16-el-mejor-piloto-de-la-historia-.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="El mejor piloto de la Historia."&gt;
+&lt;br&gt;&lt;p&gt;El mejor piloto de la Historia.... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-11-16-el-mejor-piloto-de-la-historia-.html&gt;El mejor piloto de la Historia.&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Fri, 16 Nov 2018 10:12 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-11-16-el-mejor-piloto-de-la-historia-.html</guid>
+   </item>
+   <item>
+    <title>Stefan Bellof el Kaiser de Nurburgring</title>
+    <link>https://historacing.github.io//post/2018-10-29-stefan-bellof-el-kaiser-de-nurburgring.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Stefan Bellof el Kaiser de Nurburgring"&gt;
+&lt;br&gt;&lt;p&gt;Stefan Bellof el Kaiser de Nurburgring... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-29-stefan-bellof-el-kaiser-de-nurburgring.html&gt;Stefan Bellof el Kaiser de Nurburgring&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Mon, 29 Oct 2018 23:27 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-10-29-stefan-bellof-el-kaiser-de-nurburgring.html</guid>
+   </item>
+   <item>
+    <title>RAC Rally 1998 El dia que el destino les hizo aun mas grandes</title>
+    <link>https://historacing.github.io//post/2018-10-26-rac-rally-1998-el-dia-que-el-destino-les-hizo-aun-mas-grandes.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="RAC Rally 1998 El dia que el destino les hizo aun mas grandes"&gt;
+&lt;br&gt;&lt;p&gt;RAC Rally 1998 El dia que el destino les hizo aun mas grandes... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-26-rac-rally-1998-el-dia-que-el-destino-les-hizo-aun-mas-grandes.html&gt;RAC Rally 1998 El dia que el destino les hizo aun mas grandes&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Fri, 26 Oct 2018 09:38 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-10-26-rac-rally-1998-el-dia-que-el-destino-les-hizo-aun-mas-grandes.html</guid>
+   </item>
+   <item>
+    <title>Alcaniz el Monaco espanol </title>
+    <link>https://historacing.github.io//post/2018-10-09-alcaniz-el-monaco-espanol-.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Alcaniz el Monaco espanol "&gt;
+&lt;br&gt;&lt;p&gt;Alcaniz el Monaco espanol ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-09-alcaniz-el-monaco-espanol-.html&gt;Alcaniz el Monaco espanol &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 09 Oct 2018 20:20 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-10-09-alcaniz-el-monaco-espanol-.html</guid>
+   </item>
+   <item>
+    <title>Monza La historia del circuito de los records</title>
+    <link>https://historacing.github.io//post/2018-10-05-monza-la-historia-del-circuito-de-los-records.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Monza La historia del circuito de los records"&gt;
+&lt;br&gt;&lt;p&gt;Monza La historia del circuito de los records... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-05-monza-la-historia-del-circuito-de-los-records.html&gt;Monza La historia del circuito de los records&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Fri, 05 Oct 2018 21:06 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-10-05-monza-la-historia-del-circuito-de-los-records.html</guid>
+   </item>
+   <item>
+    <title>Le Mans 1955 La carrera del infierno. </title>
+    <link>https://historacing.github.io//post/2018-10-05-le-mans-1955-la-carrera-del-infierno--.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Le Mans 1955 La carrera del infierno. "&gt;
+&lt;br&gt;&lt;p&gt;Le Mans 1955 La carrera del infierno. ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-10-05-le-mans-1955-la-carrera-del-infierno--.html&gt;Le Mans 1955 La carrera del infierno. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Fri, 05 Oct 2018 21:03 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-10-05-le-mans-1955-la-carrera-del-infierno--.html</guid>
+   </item>
+   <item>
+    <title>Hermanos Rodriguez una vida apasionante. </title>
+    <link>https://historacing.github.io//post/2018-08-30-hermanos-rodriguez--una-vida-apasionante--.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Hermanos Rodriguez una vida apasionante. "&gt;
+&lt;br&gt;&lt;p&gt;Hermanos Rodriguez una vida apasionante. ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-08-30-hermanos-rodriguez--una-vida-apasionante--.html&gt;Hermanos Rodriguez una vida apasionante. &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Thu, 30 Aug 2018 10:24 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-08-30-hermanos-rodriguez--una-vida-apasionante--.html</guid>
+   </item>
+   <item>
+    <title>Off-topic (SimRacing) </title>
+    <link>https://historacing.github.io//post/2018-08-28-off-topic-(simracing)-.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Off-topic (SimRacing) "&gt;
+&lt;br&gt;&lt;p&gt;Off-topic (SimRacing) ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-08-28-off-topic-(simracing)-.html&gt;Off-topic (SimRacing) &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Tue, 28 Aug 2018 20:59 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-08-28-off-topic-(simracing)-.html</guid>
+   </item>
+   <item>
+    <title>Wilfredo Ricard y los Pegaso Z102</title>
+    <link>https://historacing.github.io//post/2018-08-10-wilfredo-ricard-y-los-pegaso-z102.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Wilfredo Ricard y los Pegaso Z102"&gt;
+&lt;br&gt;&lt;p&gt;Wilfredo Ricard y los Pegaso Z102... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-08-10-wilfredo-ricard-y-los-pegaso-z102.html&gt;Wilfredo Ricard y los Pegaso Z102&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Fri, 10 Aug 2018 00:29 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-08-10-wilfredo-ricard-y-los-pegaso-z102.html</guid>
+   </item>
+   <item>
+    <title>Coches Míticos "Lancia Stratos, el príncipe de los rallyes"</title>
+    <link>https://historacing.github.io//post/2018-07-29-coches-miticos-"lancia-stratos--el-principe-de-los-rallyes".html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Coches Míticos "Lancia Stratos, el príncipe de los rallyes""&gt;
+&lt;br&gt;&lt;p&gt;Coches Míticos "Lancia Stratos, el príncipe de los rallyes"... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-07-29-coches-miticos-"lancia-stratos--el-principe-de-los-rallyes".html&gt;Coches Míticos "Lancia Stratos, el príncipe de los rallyes"&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Sun, 29 Jul 2018 09:00 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-07-29-coches-miticos-"lancia-stratos--el-principe-de-los-rallyes".html</guid>
+   </item>
+   <item>
+    <title>Autoracing 2018 ( podcast mini) </title>
+    <link>https://historacing.github.io//post/2018-07-07-autoracing-2018-(-podcast-mini)-.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Autoracing 2018 ( podcast mini) "&gt;
+&lt;br&gt;&lt;p&gt;Autoracing 2018 ( podcast mini) ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-07-07-autoracing-2018-(-podcast-mini)-.html&gt;Autoracing 2018 ( podcast mini) &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Sat, 07 Jul 2018 00:31 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-07-07-autoracing-2018-(-podcast-mini)-.html</guid>
+   </item>
+   <item>
+    <title>Indy500 1982 "Drama, pasión y gloria"</title>
+    <link>https://historacing.github.io//post/2018-06-23-indy500-1982-"drama--pasion-y-gloria".html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="Indy500 1982 "Drama, pasión y gloria""&gt;
+&lt;br&gt;&lt;p&gt;Indy500 1982 "Drama, pasión y gloria"... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-06-23-indy500-1982-"drama--pasion-y-gloria".html&gt;Indy500 1982 "Drama, pasión y gloria"&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Sat, 23 Jun 2018 12:42 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-06-23-indy500-1982-"drama--pasion-y-gloria".html</guid>
+   </item>
+   <item>
+    <title>El ultimo dia de Abril ( Roland Ratzemberger) </title>
+    <link>https://historacing.github.io//post/2018-05-24-el-ultimo-dia-de-abril-(-roland-ratzemberger)-.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="El ultimo dia de Abril ( Roland Ratzemberger) "&gt;
+&lt;br&gt;&lt;p&gt;El ultimo dia de Abril ( Roland Ratzemberger) ... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-05-24-el-ultimo-dia-de-abril-(-roland-ratzemberger)-.html&gt;El ultimo dia de Abril ( Roland Ratzemberger) &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Thu, 24 May 2018 09:47 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-05-24-el-ultimo-dia-de-abril-(-roland-ratzemberger)-.html</guid>
+   </item>
+   <item>
+    <title>El Rallye de los taxis</title>
+    <link>https://historacing.github.io//post/2018-05-09-el-rallye-de-los-taxis.html</link>
+    <description>
+&lt;img src="https://archive.org/download/logoitunes_201707/logoitunes.jpg" alt="El Rallye de los taxis"&gt;
+&lt;br&gt;&lt;p&gt;El Rallye de los taxis... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://historacing.github.io//post/2018-05-09-el-rallye-de-los-taxis.html&gt;El Rallye de los taxis&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://historacing.github.io/&gt;Visita Historacing&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Wed, 09 May 2018 09:19 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
+    <guid>https://historacing.github.io//post/2018-05-09-el-rallye-de-los-taxis.html</guid>
+   </item>
+  </channel>
+</rss>
